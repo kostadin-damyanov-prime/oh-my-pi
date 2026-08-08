@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added vala LSP definition
+
 ## [17.2.11] - 2026-08-07
 
 ### Added
